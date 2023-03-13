@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently working with `Html`, `CSS`, `Bootstrap`, `SCSS`.
 - 🌱 I’m currently learning `JavaScript`.
-- 👯 I’m looking to collaborate on UI/UX appealing websites built with `Html`, `CSS`.
-- 🤔 I’m looking for help with `JavaScript`.
-- 💬 Ask me about anything you are interested.
+- 👯 I’m looking to collaborate on UI/UX appealing websites built with `Html`, `CSS` and `JavaScript`.
+- 💬 Ask me about anything you are interested in asking.
 - 📫 How to reach me: nath.codes@gmail.com
 - 😄 Pronouns: He, His, Him
 - ⚡ Fun fact: I love to code and play games.
