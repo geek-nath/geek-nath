@@ -14,4 +14,7 @@ My name is Nathaniel, I am a website developer from Nigeria. I am an undergradut
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=geek-nath&theme=algolia)](https://git.io/streak-stats) -->
 
+
 ![Geek-nath GitHub stats](https://github-readme-stats.vercel.app/api?username=geek-nath&show_icons=true&theme=algolia&count_private=true&line_height=30&hide=prs,issues,contributed,&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geek-nath&hide=html,css,pug,vue,handlebars,ejs&theme=algolia&langs_count=10&layout=compact)](https://github.com/codewithdiv/github-readme-stats)
